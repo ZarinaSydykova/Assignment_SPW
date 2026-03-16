@@ -28,10 +28,10 @@ This is the industry-standard strategy for working in teams:
 each other.
 
 ## Essential Commands for Branch Management
-**git branch** Lists all existing branches in the repository
-**git branch NAME**  Creates a new branch at the current commit
-**git checkout NAME** Switches the working directory to the specified branch
-**git checkout -b NAME**  A combined command to create and switch to a new branch immediately
-**git push origin NAME** - Uploads the local branch to a remote server (GitHub)
+`git branch` – Lists all existing branches in the repository
+`git branch NAME` – Creates a new branch at the current commit
+`git checkout NAME` – Switches the working directory to the specified branch
+`git checkout -b NAME` – A combined command to create and switch to a new branch immediately
+`git push origin NAME` – Uploads the local branch to a remote server (GitHub)
 
 
